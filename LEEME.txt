@@ -1,0 +1,5 @@
+Copiá tu archivo de audio a esta misma carpeta (junto a index.html)
+con el nombre exacto: the-climb.mp3
+
+Podés borrar este archivo LEEME.txt antes de subir todo a GitHub,
+no es necesario para que funcione la invitación.
